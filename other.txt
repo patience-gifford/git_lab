@@ -1,10 +1,12 @@
 hello!!! how are you?
 
 
+
 :wq
 
 
 
 q1
-q!
-
+q!:wq
+i
+i am really wonderful! how are you?
